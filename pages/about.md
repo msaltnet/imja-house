@@ -8,4 +8,4 @@ permalink: /about
 
 Welcome to the Imja's house. I'll tell you a lot of interesting stories!
 
-https://www.youtube.com/channel/UCULjnB1m5RQ_NZSMXZ_axgg
+[초코딩 유튜브 채널](https://www.youtube.com/channel/UCULjnB1m5RQ_NZSMXZ_axgg)
