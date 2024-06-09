@@ -125,7 +125,7 @@ post_class: post-template
             {% if page.previous.url %}
             <a class="prev d-block col-md-6" href="{{page.previous.url | prepend: site.baseurl | prepend: site.url}}"> &laquo; {{page.previous.title}}</a>
             {% else %}
-            <a class="prev d-block col-md-6" href="{{prepend: site.baseurl | prepend: site.url}}"></a>
+            <spaan class="prev d-block col-md-6"> </spaan>
             {% endif %}
             {% if page.next.url %}
             <a class="next d-block col-md-6 text-right" href="{{page.next.url | prepend: site.baseurl | prepend: site.url}}">{{page.next.title}} &raquo; </a>
