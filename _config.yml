@@ -4,7 +4,7 @@ title: "Imja's House Story"
 description: "Welcome to the Imja's house. I'll tell you a lot of interesting stories!"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: /imja.msalt.net
+baseurl: /
 google_analytics: ''
 disqus: ''
 include: ["_pages"]
