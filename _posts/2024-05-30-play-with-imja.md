@@ -2,7 +2,7 @@
 layout: post
 title: "임자와 놀기"
 categories: diary
-tags: [diary]
+tags: [play]
 image: assets/images/20240601_123422.jpg
 featured: true
 comments: false

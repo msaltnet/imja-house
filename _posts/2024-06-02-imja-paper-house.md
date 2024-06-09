@@ -2,7 +2,7 @@
 layout: post
 title: "임자 집 만들기"
 categories: diary
-tags: [diary]
+tags: [play, craft]
 image: assets/images/20240602_112028.jpg
 comments: false
 ---
