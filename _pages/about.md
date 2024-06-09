@@ -13,7 +13,7 @@ comments: true
 
 <p>유튜브에 영상도 올리고 있어요. <a href="https://www.youtube.com/@chocoding">초코딩 채널</a>.</p>
 
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/main.png" alt="main banner" /></p>
+<img class="shadow-lg" src="{{site.baseurl}}/assets/images/main.png" alt="main banner"/>
 
 </div>
 </div>
