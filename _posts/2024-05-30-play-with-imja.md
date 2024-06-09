@@ -4,6 +4,8 @@ title: "임자와 놀기"
 categories: diary
 tags: [diary]
 image: assets/images/20240601_123422.jpg
+featured: true
+comments: false
 ---
 
 요즘 임자랑 노느게 참 좋다. 관찰하고 살펴보고, 보살펴준다.

@@ -4,6 +4,7 @@ title: "첫인사"
 categories: diary
 tags: [diary]
 image: assets/images/20240521_224323.jpg
+comments: false
 ---
 
 임자를 처음 만났다. 귀여운 녀석.

@@ -4,6 +4,7 @@ title: "임자 집 만들기"
 categories: diary
 tags: [diary]
 image: assets/images/20240602_112028.jpg
+comments: false
 ---
 
 평화로운 일요일 아침. 갑자기 임자 집을 만들어 보기로 했다. 정확히는 은신처를 만들어 주기로 했다.
