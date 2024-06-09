@@ -1,10 +1,9 @@
 ---
 layout: post
 title: "첫인사"
-author: "imja"
 categories: diary
 tags: [diary]
-image: 20240521_224323.jpg
+image: assets/images/20240521_224323.jpg
 ---
 
 임자를 처음 만났다. 귀여운 녀석.
@@ -13,6 +12,6 @@ image: 20240521_224323.jpg
 
 반가웡!❤️
 
-![alt text](../assets/img/20240517_155546.jpg)
+![alt text](../assets/images/20240517_155546.jpg)
 
 몸무게가 54g이다. 55g를 유지해야 한다고 하니, 잘 챙겨야겠다.ㅋㅋㅋ
