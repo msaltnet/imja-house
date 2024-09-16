@@ -4,6 +4,7 @@ title: "임자가 쉬고 있어요"
 categories: diary
 tags: [play, craft, coding]
 image: assets/images/sign0007.jpg
+featured: true
 comments: false
 ---
 

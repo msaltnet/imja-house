@@ -4,6 +4,7 @@ title: "임자 놀이터"
 categories: diary
 tags: [play, craft, playground]
 image: assets/images/playground4.jpg
+featured: true
 comments: false
 ---
 
