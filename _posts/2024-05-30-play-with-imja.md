@@ -14,4 +14,4 @@ comments: false
 
 너무 길게 찍어서 편집이 어려웠다.ㅋㅋㅋ
 
-![alt text](../assets/images/thumbnail.png)
+![alt text](../assets/images/thumbnail.jpg)
